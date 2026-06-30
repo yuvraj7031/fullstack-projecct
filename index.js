@@ -99,7 +99,7 @@ app.use((req, res) => {
 
 
 
-// SERVER
+// LOCAL SERVER
 
 
 const PORT = process.env.PORT || 5000;
